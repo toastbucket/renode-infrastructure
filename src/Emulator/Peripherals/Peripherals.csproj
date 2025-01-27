@@ -520,6 +520,7 @@
     <Compile Include="Peripherals\SPI\NORFlash\DecodedOperation.cs" />
     <Compile Include="Peripherals\SPI\GigaDevice_GD25LQ.cs" />
     <Compile Include="Peripherals\Miscellaneous\STM32_PWR.cs" />
+    <Compile Include="Peripherals\Miscellaneous\STM32WB5x_PWR.cs" />
     <Compile Include="Peripherals\Timers\S32K_LPIT.cs" />
     <Compile Include="Peripherals\Timers\S32K_LPTMR.cs" />
     <Compile Include="Peripherals\UART\TrivialUart.cs" />
